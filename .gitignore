@@ -1,0 +1,7 @@
+#this is comment
+  
+
+*.js
+*.mp4
+!hello.js
+node_modules/

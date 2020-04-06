@@ -1,1 +1,3 @@
-i am  adding important function here
+i am  adding important function 1 here
+i am  adding important function 2 here
+i am  adding important function 3 here

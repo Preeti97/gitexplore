@@ -1,4 +1,4 @@
-function1- very very imp function1
+//function1- very very imp function1
 function2
 funtion 3
 

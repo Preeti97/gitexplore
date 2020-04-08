@@ -1,7 +1,2 @@
-//function1- very very imp function1
-function2
-funtion 3
-
-this  i am adding simply to master
-added a chart in out branch
- added a code for logout
+removed everything due to conflict
+just adding one feature

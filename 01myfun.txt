@@ -1,6 +1,7 @@
-function1-imp function1
+function1- very very imp function1
 function2
 funtion 3
 
 this  i am adding simply to master
 added a chart in out branch
+ added a code for logout

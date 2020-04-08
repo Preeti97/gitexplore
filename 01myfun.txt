@@ -3,3 +3,4 @@ function2
 funtion 3
 
 this  i am adding simply to master
+added a chart in out branch
